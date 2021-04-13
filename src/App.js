@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import "./styles/app.scss";
+import "./styles/app.css";
 //Import Components
 import Player from "./components/Player.js";
 import Song from "./components/Song.js";
