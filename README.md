@@ -1,6 +1,8 @@
 # Harmony 
 Harmony is a web application designed to help the user discover new music.
 
+https://harmonymusic.netlify.app
+
 ## Goal
 To build a web app utilizing Redux and front end development skills.
 
