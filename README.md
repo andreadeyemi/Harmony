@@ -5,8 +5,10 @@ Harmony is a web application designed to help the user discover new music.
 To build a web app utilizing React and front end development skills.
 
 ## Built With
+
+* [JavaScript](https://www.javascript.com/)
 * [HTML](https://html.spec.whatwg.org)
-* [Sass](https://sass-lang.com/)
+* [CSS](https://www.w3.org/TR/CSS/#css)
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 
